@@ -469,6 +469,7 @@ video {
 .slides-nav::before {
   content: "scroll / drag";
   margin-right: 2rem;
+  margin-bottom: 2rem;
 }
 
 .slides-nav__item {
@@ -532,11 +533,11 @@ video {
 
 @media (max-width: 999px) {
 	.slides-nav__item--prev{
-		bottom: 20px;
+		bottom: 40px;
 		right: 20px;
 	}
 	.slides-nav__item--next{
-    		bottom: 20px;
+    		bottom: 40px;
     		right: 20px;
 	}
 }
