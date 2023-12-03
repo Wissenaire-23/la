@@ -28,7 +28,7 @@ body {
 .company-logo {
   position: absolute;
   top: 20px;
-  left: 20px;
+  right: 20px;
   width: 160px;
   display: block;
   /* Adjust the width as needed */
