@@ -469,7 +469,6 @@ video {
 .slides-nav::before {
   content: "scroll / drag";
   margin-right: 2rem;
-  margin-bottom: 2rem;
 }
 
 .slides-nav__item {
@@ -539,5 +538,8 @@ video {
 	.slides-nav__item--next{
     		bottom: 40px;
     		right: 20px;
+	}
+	.slides-nav::before {
+		margin-bottom: 2rem;
 	}
 }
