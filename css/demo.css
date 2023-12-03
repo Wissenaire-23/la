@@ -23,6 +23,10 @@ body {
 	font-family: 'Raleway', Arial, sans-serif;
 }
 
+.menu ul li{
+	font-size: 25px;
+}
+
 a {
 	color: #B24E51;
 	text-decoration: none;
