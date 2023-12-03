@@ -79,6 +79,7 @@ a:focus {
 .container {
 	text-align: center;
 	padding: 5.25em 0.5em 0;
+	position: fixed;
 }
 
 /* Header */
