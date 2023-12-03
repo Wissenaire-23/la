@@ -488,6 +488,12 @@ video {
   background-color: #ccc;
 }
 
+.menu--open svg{
+	background: black;
+	opacity: 75%;
+}
+	
+
 @media screen and (min-width: 53em) {
   .frame {
     height: 100vh;
