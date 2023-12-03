@@ -206,7 +206,7 @@
 		right: 100px;
 	}
 	.menu--open button.menu__handle {
-		right: 15px;
+		left: 255px;
 	}
 	.menu--open .morph-shape {
     		left: 0px;
