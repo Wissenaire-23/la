@@ -307,6 +307,10 @@ body #cdawrap {
   justify-self: start;
 }
 
+.slide_content div{
+	padding-left: 30px;
+}
+
 .frame a,
 .frame button {
   pointer-events: auto;
