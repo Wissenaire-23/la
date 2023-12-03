@@ -529,3 +529,14 @@ video {
     font-size: 10px;
   }
 } */
+
+@media (max-width: 999px) {
+	.slides-nav__item--prev{
+		bottom: 20px;
+		right: 20px;
+	}
+	.slides-nav__item--next{
+    		bottom: 20px;
+    		right: 20px;
+	}
+}
