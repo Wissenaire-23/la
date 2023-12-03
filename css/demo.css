@@ -80,6 +80,7 @@ a:focus {
 	text-align: center;
 	padding: 5.25em 0.5em 0;
 	position: fixed;
+	z-index: 100;
 }
 
 /* Header */
