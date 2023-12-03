@@ -188,7 +188,7 @@
 	}
 	
 	.menu__inner{
-		padding: 150px 70px;
+		padding: 100px 70px 100px 10px;
 	}
 	.menu ul li {
 		margin: 0 0 1.2em 0;
