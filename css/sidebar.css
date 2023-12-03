@@ -195,5 +195,8 @@
 	.menu ul li {
 		margin: 0 0 1.2em 0;
 	}
+	.menu__handle {
+		right: 100px;
+	}
 }
 
