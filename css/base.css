@@ -488,7 +488,7 @@ video {
   background-color: #ccc;
 }
 
-.menu--open svg{
+.menu--open svg:not(:root){
 	background: black;
 	opacity: 75%;
 }
