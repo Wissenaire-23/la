@@ -101,9 +101,7 @@
     z-index: 2000;
 }
 
-.menu--open button.menu__handle {
-	right: 50px;
-}
+
 
 .menu__handle::before,
 .menu__handle::after,
@@ -197,6 +195,13 @@
 	}
 	.menu__handle {
 		right: 100px;
+	}
+	.menu--open button.menu__handle {
+		right: 65px;
+	}
+	.menu--open .morph-shape {
+    		left: 0px;
+    		width: max-content;
 	}
 }
 
