@@ -161,7 +161,7 @@
 	width: 240px;
 	height: 100%;
 	top: 0;
-	right: 0;
+	left: -85px;;
 }
 
 .morph-shape svg path {
